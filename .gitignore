@@ -1,0 +1,12 @@
+notebooks/data/
+notebooks/datas/
+notebooks/.ipynb_checkpoints
+*.sav
+*.json
+*.csv
+__pycache__/
+*.pyc
+*.pyx
+*.jsonl
+*.parquet
+*.pickle
