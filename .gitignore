@@ -1,6 +1,4 @@
-notebooks/data/
-notebooks/datas/
-notebooks/.ipynb_checkpoints
+notebooks/
 *.sav
 *.json
 *.csv
