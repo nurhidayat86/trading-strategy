@@ -1,0 +1,8 @@
+alpha_vantage:
+  av_key: 'abcdefg'
+
+telegram:
+  group_chat_id: 'abcdef'
+  personal_chat_id: 'abcdef'
+  btc_chat_id: 'abcdef'
+  bot_key: 'defghijk'
